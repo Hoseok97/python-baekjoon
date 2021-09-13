@@ -10,5 +10,5 @@
 
 
 #정답
- A, B = input().split()
+ A, B = input().split() # 두 값을 입력받고 split 함수로 나누어 저장
  print(int(A)+int(B))

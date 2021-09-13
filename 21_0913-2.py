@@ -3,6 +3,7 @@
 # 평균은 넘겠지
 
 N = int(input())
+
 for _ in range(N):
     nums = list(map(int, input().split()))
     avg = sum(nums[1:])/nums[0]  

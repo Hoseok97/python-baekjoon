@@ -1,6 +1,6 @@
 # baekjoon 알고리즘 단계별 문제
 # 기본 수학2
-# 소수 찾기
+# 소수 찾기(1974번)
 
 N = int(input())
 numbers = map(int, input().split())
